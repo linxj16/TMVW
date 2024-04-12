@@ -1,6 +1,8 @@
-# TMVW
-TMVW: Template-Message Versatile Watermarking for Arbitrary Resolution Images
+<div align="center">
+<h2> TMVW: Template-Message Versatile Watermarking for Arbitrary Resolution Images </h3>
 
-official code for paper: TMVW: Template-Message Versatile Watermarking for Arbitrary Resolution Images
+This is the official code for paper named above
+</div>
 
-Our code will be available after paper review
+## Code
+Our code will be available after paper review.
